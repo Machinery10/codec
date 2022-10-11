@@ -1,0 +1,23 @@
+/* CLASS */
+.v {background-color: red;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 200px;
+  left: 208px;
+
+}
+.u{background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 108px;
+  top: 100px;
+
+}
+.t{background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top:0;
+}
